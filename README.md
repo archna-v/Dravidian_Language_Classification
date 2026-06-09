@@ -1,4 +1,4 @@
-Abusive Language Detection in Kannada and Tulu Code-Mixed Tex
+Abusive Language Detection in Kannada and Tulu Code-Mixed Text
 📌 Project Overview
 
 This project focuses on detecting abusive and offensive language in Kannada and Tulu code-mixed social media comments. Low-resource Dravidian languages present unique challenges such as data scarcity, code-mixing, spelling variations, and transliteration issues.
