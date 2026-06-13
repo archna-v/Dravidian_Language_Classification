@@ -59,13 +59,13 @@ Evaluation: Measure accuracy on dev sets.
 
 Prediction: Generate predictions on test data and save output as CSV.
 
-📊 Results Summary
+📊 Result Summary
 
 Both Kannada and Tulu achieved consistent performance using the ensemble approach, outperforming individual classifiers.
 
 The models proved effective in handling sparse, high-dimensional text features, but remain limited in deep contextual understanding.
 
-⚠️ Limitations
+⚠️ Limitatiions
 
 Data Imbalance: Uneven class distributions may bias predictions.
 
@@ -79,7 +79,7 @@ Contextual Understanding: Sarcasm and implicit abuse remain difficult for featur
 
 🔮 Future Work
 
-Apply transformer-based models (BERT, RoBERTa, XLM-Roberta).
+Apply the transformer-based models (BERT, RoBERTa, XLM-Roberta).
 
 Explore contextual embeddings (FastText, Word2Vec).
 
