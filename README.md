@@ -25,7 +25,7 @@ Lightweight models → Easy deployment on limited hardware.
 
 Language: Python
 
-Libraries:
+Libraries: 
 
 pandas, numpy
 
